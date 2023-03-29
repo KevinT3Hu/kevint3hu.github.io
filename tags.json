@@ -3,19 +3,31 @@
 [
   
     {
-      "id"    : "bangumi",
+      "id"    : "杂谈",
       "post": [
           
          {
-            "title": "一月番剧总结",
-            "excerpt": "这季度的番剧主打一个比烂，完整看完的只有一部。好消息是，四月已经快到了",
-            "url": "/%E7%95%AA%E5%89%A7/2023/03/29/bangumi_january_summary.html"
+            "title": "最初的博客",
+            "excerpt": "这样子我的博客就上线啦。",
+            "url": "/others/2023/03/27/first_blog.html"
          } 
       ]
     } ,
   
     {
-      "id"    : "sfw",
+      "id"    : "番剧",
+      "post": [
+          
+         {
+            "title": "一月番剧总结",
+            "excerpt": "这季度的番剧主打一个比烂，完整看完的只有一部。好消息是，四月已经快到了",
+            "url": "/bangumi/2023/03/29/bangumi_january_summary.html"
+         } 
+      ]
+    } ,
+  
+    {
+      "id"    : "短评",
       "post": [
           
          {
@@ -27,19 +39,7 @@
     } ,
   
     {
-      "id"    : "杂谈",
-      "post": [
-          
-         {
-            "title": "最初的博客",
-            "excerpt": "这样子我的博客就上线啦。",
-            "url": "/%E6%9D%82%E8%B0%88/2023/03/27/first_blog.html"
-         } 
-      ]
-    } ,
-  
-    {
-      "id"    : "短评",
+      "id"    : "科幻世界",
       "post": [
           
          {
