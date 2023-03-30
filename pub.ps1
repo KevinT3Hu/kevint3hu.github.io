@@ -1,4 +1,4 @@
-bundle exec jekyll build --config _config.yml --increment
+bundle exec jekyll build --config _config.yml
 Write-Output "Build complete"
 Set-Location _site
 git add *
